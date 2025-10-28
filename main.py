@@ -13,7 +13,7 @@ import winsound
 
 # Step 3: Configuration - Choose your language and voice model
 # Available models: "vi" for Vietnamese, "en" for English
-LANGUAGE = "en"  # Change to "en" for English
+LANGUAGE = "vi"  # Change to "en" for English
 
 # Voice model paths
 VOICE_MODELS = {
